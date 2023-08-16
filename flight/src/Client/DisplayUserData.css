@@ -1,0 +1,47 @@
+.containe{
+  display: flex;
+  position: relative;
+  background-color: rgb(224, 217, 215);
+  height: 570px;
+
+
+}
+.containe .form .submit-button
+{
+  background-color: goldenrod;
+  color: blue;
+}
+.containe .form
+{
+  margin-top: 300px;
+  margin-left:330px;
+  display: flex;
+  position: absolute;
+}
+.containe .form .field{
+  cursor: pointer;
+}
+.containe .Alain_Item{
+  
+ 
+  position: absolute;
+
+
+}
+.containe .Alain_Item 
+{
+  display: flex;
+  justify-content: center;
+  align-content: center;
+
+
+}
+.containe .Alain_Item img{
+  margin-top: 50px;
+margin-left: 100px;
+  width: 1000px;
+  min-height: 300px;
+    border-radius: 10rem;
+
+
+}
